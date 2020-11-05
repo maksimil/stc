@@ -1,0 +1,17 @@
+# VS
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# gmake
+Makefile
+.make
+
+# vscode
+.vscode
+
+# Build
+bin/
+bin-int/
